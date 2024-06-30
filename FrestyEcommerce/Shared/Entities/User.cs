@@ -1,10 +1,11 @@
-﻿using System;
+﻿using FrestyEcommerce.Shared.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FrestyEcommerce.Shared
+namespace FrestyEcommerce.Shared.Entities
 {
     public class User
     {
@@ -13,7 +14,7 @@ namespace FrestyEcommerce.Shared
         public byte[] PasswordHash { get; set; }
         public byte[] PasswordSalt { get; set; }
         public DateTime DateCreated { get; set; } = DateTime.Now;
-        public Address Address { get; set; }
-        public string Role { get; set; } = "Customer";
+        //public Address Address { get; set; }
+        public UserType Role { get; set; }
     }
 }

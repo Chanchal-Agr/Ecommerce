@@ -1,4 +1,6 @@
-﻿namespace FrestyEcommerce.Server.Services.ProductTypeService
+﻿using FrestyEcommerce.Shared.Entities;
+
+namespace FrestyEcommerce.Server.Services.ProductTypeService
 {
     public interface IProductTypeService
     {

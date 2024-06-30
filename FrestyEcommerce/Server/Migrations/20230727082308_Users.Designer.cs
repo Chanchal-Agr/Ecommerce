@@ -434,6 +434,9 @@ namespace FrestyEcommerce.Server.Migrations
                         .IsRequired()
                         .HasColumnType("varbinary(max)");
 
+                    b.Property<int>("Role")
+                     .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.ToTable("Users");

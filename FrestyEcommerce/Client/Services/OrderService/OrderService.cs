@@ -1,4 +1,5 @@
 ﻿using FrestyEcommerce.Shared.Dtos;
+using FrestyEcommerce.Shared.Entities;
 using Microsoft.AspNetCore.Components;
 
 namespace FrestyEcommerce.Client.Services.OrderService

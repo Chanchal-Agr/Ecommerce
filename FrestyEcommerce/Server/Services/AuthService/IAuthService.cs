@@ -1,4 +1,6 @@
-﻿namespace FrestyEcommerce.Server.Services.AuthService
+﻿using FrestyEcommerce.Shared.Entities;
+
+namespace FrestyEcommerce.Server.Services.AuthService
 {
     public interface IAuthService
     {

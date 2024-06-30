@@ -1,4 +1,6 @@
-﻿namespace FrestyEcommerce.Client.Services.AddressService
+﻿using FrestyEcommerce.Shared.Entities;
+
+namespace FrestyEcommerce.Client.Services.AddressService
 {
     public interface IAddressService
     {

@@ -1,5 +1,6 @@
 ﻿using Blazored.LocalStorage;
 using FrestyEcommerce.Shared.Dtos;
+using FrestyEcommerce.Shared.Entities;
 
 namespace FrestyEcommerce.Client.Services.CartService
 {

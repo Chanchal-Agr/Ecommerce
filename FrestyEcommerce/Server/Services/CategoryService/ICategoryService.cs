@@ -1,4 +1,6 @@
-﻿namespace FrestyEcommerce.Server.Services.CategoryService
+﻿using FrestyEcommerce.Shared.Entities;
+
+namespace FrestyEcommerce.Server.Services.CategoryService
 {
     public interface ICategoryService
     {

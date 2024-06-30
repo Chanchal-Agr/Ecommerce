@@ -1,4 +1,5 @@
 ﻿using FrestyEcommerce.Shared.Dtos;
+using FrestyEcommerce.Shared.Entities;
 
 namespace FrestyEcommerce.Client.Services.ProductService
 {

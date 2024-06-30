@@ -1,4 +1,5 @@
 ﻿using FrestyEcommerce.Shared.Dtos;
+using FrestyEcommerce.Shared.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

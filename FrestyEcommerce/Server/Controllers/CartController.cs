@@ -1,6 +1,6 @@
 ﻿using FrestyEcommerce.Server.Services.CartService;
-using FrestyEcommerce.Shared;
 using FrestyEcommerce.Shared.Dtos;
+using FrestyEcommerce.Shared.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;

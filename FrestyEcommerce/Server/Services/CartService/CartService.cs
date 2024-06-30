@@ -1,6 +1,6 @@
 ﻿using FrestyEcommerce.Server.Migrations;
-using FrestyEcommerce.Shared;
 using FrestyEcommerce.Shared.Dtos;
+using FrestyEcommerce.Shared.Entities;
 using System.Security.Claims;
 
 namespace FrestyEcommerce.Server.Services.CartService

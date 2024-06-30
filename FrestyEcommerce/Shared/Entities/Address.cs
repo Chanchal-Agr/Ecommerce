@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FrestyEcommerce.Shared
+namespace FrestyEcommerce.Shared.Entities
 {
     public class Address
     {

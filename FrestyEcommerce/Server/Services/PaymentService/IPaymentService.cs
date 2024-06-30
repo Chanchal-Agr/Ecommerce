@@ -1,4 +1,5 @@
-﻿using Stripe.Checkout;
+﻿using FrestyEcommerce.Shared.Entities;
+using Stripe.Checkout;
 
 namespace FrestyEcommerce.Server.Services.PaymentService
 {

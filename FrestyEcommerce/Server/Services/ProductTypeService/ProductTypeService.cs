@@ -1,4 +1,5 @@
 ﻿using FrestyEcommerce.Client.Pages.Admin;
+using FrestyEcommerce.Shared.Entities;
 
 namespace FrestyEcommerce.Server.Services.ProductTypeService
 {

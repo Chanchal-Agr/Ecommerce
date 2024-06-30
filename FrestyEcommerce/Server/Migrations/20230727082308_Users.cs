@@ -40,7 +40,7 @@ namespace FrestyEcommerce.Server.Migrations
             migrationBuilder.InsertData("Users", new string[] { "Id", "Email",  "PasswordHash", "PasswordSalt","DateCreated", "Role" },
                new object[,]
                {
-                    {  1, "admin@pageupsoft.com", passwordHash, passwordSalt ,DateTime.Now,0}
+                    {  1, "admin@pageupsoft.com", passwordHash, passwordSalt ,DateTime.Now,1}
                });
         }
 
